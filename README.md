@@ -2,7 +2,7 @@
 
 # Hi there, I'm Harisundar! 👋
 
-### 👨‍💻 ML Enthusiast & Full Stack Developer
+### ML Enthusiast & Full Stack Developer
 *Based in Chennai, India* 🇮🇳
 
 I'm a passionate 3rd-year graduate student at **Sri Ramachandra Institute of Higher Education and Research**, focusing on building **Machine Learning models**  while exploring **Full Stack Development** as my side quest :)
@@ -11,7 +11,7 @@ I'm a passionate 3rd-year graduate student at **Sri Ramachandra Institute of Hig
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack / tools used in daily routine
 
 | **Category** | **Technologies** |
 |:---:|:---|
@@ -24,7 +24,7 @@ I'm a passionate 3rd-year graduate student at **Sri Ramachandra Institute of Hig
 
 ---
 
-### 📊 GitHub Stats
+###  Github stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harisundarrajendran&show_icons=true&theme=tokyonight&hide_border=true" alt="Harisundar's Stats" height="180" />
@@ -43,7 +43,7 @@ I'm a passionate 3rd-year graduate student at **Sri Ramachandra Institute of Hig
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://portfolio-54bz.onrender.com/" target="_blank">
