@@ -5,7 +5,7 @@
 ### 👨‍💻 ML Enthusiast & Full Stack Developer
 *Based in Chennai, India* 🇮🇳
 
-I'm a passionate 3rd-year graduate student at **Sri Ramachandra Institute of Higher Education and Research**, focusing on building **Machine Learning models** 🤖 while exploring **Full Stack Development** 🌐 as my side quest.
+I'm a passionate 3rd-year graduate student at **Sri Ramachandra Institute of Higher Education and Research**, focusing on building **Machine Learning models**  while exploring **Full Stack Development** as my side quest :)
 
 [![](https://visitcount.itsvg.in/api?id=harisundarrajendran&label=Profile%20Views&color=0&icon=5&pretty=true)](https://github.com/HARISUNDARRAJENDRAN)
 
