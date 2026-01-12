@@ -9,4 +9,7 @@ Hi there, I am Harisundar. <br>I'm a 3rd-year graduate student at Sri Ramachandr
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hari-sundar-237570286/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/0_either) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsundar080506@gmail.com) 
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=harisundarrajendran)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
