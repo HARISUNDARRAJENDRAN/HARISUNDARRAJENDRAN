@@ -1,4 +1,3 @@
-# A cool intro:
 Hi there, I am Harisundar. <br>I'm a 3rd-year graduate student at Sri Ramachandra Institute of Higher Education and Research, passionate on building Machine Learning models while exploring Full Stack Development as my side quest :)
 
 # 💻 Tech Stack and Tools i use everyday:
